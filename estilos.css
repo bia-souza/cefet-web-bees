@@ -6,7 +6,10 @@ body {
   margin-left: 130px;
   margin-top: 0px;
   margin-right: 130px;
-  height: 100%;
+}
+
+html, body {
+  min-height: 100%;
 }
 
 p {
