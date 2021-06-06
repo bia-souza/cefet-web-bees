@@ -49,3 +49,37 @@ img.casta-de-abelha {
   float: right;
   margin-left: 30px;
 }
+
+#cabecalho {
+	background-color: #FFFFFF77;
+	box-shadow: 4px 4px 4px #0003;
+	padding: 30px;
+}
+
+p:last-child {
+	text-align: right;
+}
+
+a[href^="http"] {
+  background-color: #EEE8AA;
+}
+
+a:link {
+  color: #1CB2FA;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #F09300;
+}
+
+a:hover {
+  color: #E0FFFF;
+  text-decoration: none;
+}
+
+a:active {
+  color: #01FA10;
+  text-decoration: underline;
+}
+
